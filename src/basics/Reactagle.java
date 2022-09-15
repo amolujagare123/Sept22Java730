@@ -1,3 +1,5 @@
+package basics;
+
 public class Reactagle {
 
     public static void main(String[] args) {

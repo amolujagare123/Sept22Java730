@@ -1,3 +1,5 @@
+package basics;
+
 import java.util.Scanner;
 
 public class Average {
@@ -30,7 +32,7 @@ public class Average {
 
         average = (maths + english + history + science + geography)/5 ;
 
-        System.out.println("Average = "+average);
+        System.out.println("basics.Average = "+average);
 
 
     }

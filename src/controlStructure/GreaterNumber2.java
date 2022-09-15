@@ -1,3 +1,5 @@
+package controlStructure;
+
 public class GreaterNumber2 {
 
     public static void main(String[] args) {

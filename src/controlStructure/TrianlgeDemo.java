@@ -1,3 +1,5 @@
+package controlStructure;
+
 public class TrianlgeDemo {
 
     public static void main(String[] args) {
