@@ -13,9 +13,9 @@ public class Java4 {
 
         Java3 j3 = new Java3();
         j3.a =90; // public
-        j3.d =89.90; // protetced
+       /* j3.d =89.90; // protetced
         j3.c ='j'; // private
         j3.str = "amol"; // default
-
+*/
     }
 }
