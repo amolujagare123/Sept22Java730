@@ -1,8 +1,8 @@
-package InheritanceDemo.Polymorphism;
+package FinalStatic;
 
-public class OverridingDemo {
+public /*final*/ class OverridingDemo {
 
-    void sampleMethod()
+    /*final*/ void sampleMethod()
     {
        // System.out.println("x="+x);
         System.out.println("Parent Sample");
