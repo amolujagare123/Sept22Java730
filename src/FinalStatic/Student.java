@@ -24,11 +24,12 @@ public class Student {
 
         s2.rno = 2;
         s2.name = "Deepali";
-        s2.college = "pune college";
+        //s2.college = "pune college";
 
         s3.rno = 3;
         s3.name = "Hemant";
 
+        Student.college = "sinhgad college";
 
         s1.display();
         s2.display();

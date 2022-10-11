@@ -28,5 +28,10 @@ class ChildOverride extends OverridingDemo
         ob.sampleMethod();
 
 
+        StaticMethodDemo.demoStaticMethod1();
+        StaticMethodDemo.demoStaticMethod2();
+        StaticMethodDemo.college="";
+
+
     }
 }
