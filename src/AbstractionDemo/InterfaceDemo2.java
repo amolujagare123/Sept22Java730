@@ -4,7 +4,6 @@ public interface InterfaceDemo2 {
     void start();
     void run();
     void display();
-
    /* default void display() {
         System.out.println("display interface");
     }*/
