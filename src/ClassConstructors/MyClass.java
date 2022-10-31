@@ -35,6 +35,6 @@ public class MyClass {
         ob2.str = "Selenium" ;
         ob2.display();
 
-
+        MyClass obj;
     }
 }
