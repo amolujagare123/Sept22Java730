@@ -26,6 +26,11 @@ public class Conversion {
 
         String s5 = "f";
 
+        char ch = s5.charAt(0);
+
+        System.out.println(ch);
+
+
         // covert into char
         //char c = Character.parseCharater()
 
