@@ -29,6 +29,10 @@ public class MyClass {
 
         MyClass ob2 = new MyClass();
 
+        MyClass ob3;
+
+
+
         ob2.a = 101 ;
         ob2.d = 718.65;
         ob2.c = 'j';
